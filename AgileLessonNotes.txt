@@ -1,0 +1,7 @@
+Agile Lesson Notes:
+- Iterations = Sprints: Deliver product every time works along with customer value (transportation)
+- Cone of uncertainity: At the beginning there are more uncertainity, every iteration is a chance
+to communicate with customer and adjust the course. It's cheaper to make changes at the beggining.
+- Epic: Large value statement
+- Velocity: Story points average of the team on every sprint
+- User stories listed in value order

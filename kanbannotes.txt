@@ -1,0 +1,104 @@
+japanese
+kan=card
+ban=signal  # Color red signals new product needed
+
+Kanban started life as a scheduling system for assembly lines in the automobile industry.
+high level of production at Toyota by managing the workflow
+Just In-Time Manufacturing: delivery in small batches, don't stock 
+Toyota, island, no enough space to store thousands of cars
+pull system vs push system, signal of 100 cars order=manufacture new batch
+
+
+David Anderson=Using kanban in software dev
+David J. Anderson introduced the idea of using the kanban concept for software development.
+Focused on breaking work in small batches, increase the flow going to the system
+
+Definition of Done:the final exit criteria, a collaborative process
+
+to-do items also known as the backlog in various agile frameworks
+must deliver business value directly or indirectly				      - defects
+																      - task switching
+Lean Management - waste -------------------Activity add value or not? - partially done work
+				- work in small batches							      - extra features
+				- WIP limits									      - relearning
+				- feedback Loops								      - handoffs  # Handoffs occur when 
+																					work is passed from one person to another person
+				- visualization									      - delays
+
+KANBAN PROPERTIES (Practices) Adapted from lean principles, 5 KEY STEPS to implement
+1.Visualize Workflow
+	Kanban Board, high level view of team progress
+	Stickies: Color, Size have different meanings, Priority, Number of person working on it, Type of work
+	Yellow=feature, user story format, hard to create bcz not actionable, says what needs to be done
+	most pure Kanban board: to do, in progress, done
+	Many prefer to add only one other step in between: in progress. Others prefer to break the workflow down into stages such as: plan, design, draft, build, test, deploy, with to-do and done as bookends.
+	Value Stream Mapping 
+	ToDo Step1 .... Done
+	Input Analysis Develop Test Release
+	Buffer columns, to-do and done
+	CEO see what’s really going on in the organisation looking to the board without quizzing middle management
+	put board in a central location 
+2.Limit WIP
+	there’s an agreed limit to the total number of tasks in progress at any point in time
+	to ensure optimum efficiency
+	Max number of card in a column; no more than three tasks per person;  or twice the number of team members as a maximum group threshold
+	Bridge analogy
+	Demand analysis: Trucks vs motorcycles, fourty yellow card, ten green card etc.
+	Common sense is enough to get started and then experience, will help fine tune to pin down the optimal WiP limit.
+	Achieving business value doesn’t happen until the job is finished.
+3.Manage flow
+	The aim is to achieve a fast, smooth movement from to-do to done.
+	maximum business value in the shortest time
+	The concept: all work starts life as to-do and ends up as done.
+	It’s all about building an effective way of getting from left to right
+4.Make policies explicit
+	common understanding
+	EX: Definition of Done
+5.Improve collaboratively
+	spotlight is on the workflow, ideas start to develop about how it can be improved
+6.Feedback Loops
+	what your customers and the end-users think
+
+
+differences with Kanban
+1.All work is of a similar size: 
+Splitting large pieces of work down into smaller, similar sized packages has been proven to improve workflow and results in more predictive end-toend cycle times. 
+Penny Game: https://www.lynda.com/Project-Management-tutorials/Penny-Game/761929/5011075-4.html
+2.The backlog is refined more regularly: 
+The Kanban backlog tends to be exceptionally dynamic especially
+in a support type environment.
+3.Jobs are pulled not pushed:
+what’s next policy
+
+
+Team Capacity
+
+Waste: process dont add value to customer
+
+Optimal queue size
+
+Cumulative Flow Diagram
+
+Story Points: Fibonacci Numbers or T-shirt sizing
+
+there’s minimal disruption to the status quo.
+Kanban is a great option to get a foot in the door. It’s easy to understand and simple to launch.
+Not good for serious organizational change
+
+There are three guiding principles that sum transformation to kanban:
+1 Start with what you do now.
+2 Agree to pursue incremental, evolutionary change.
+3 Respect the current process, roles, responsibilities and titles.
+
+Lead Time: 
+The period between creating a task in your workflow and its final departure from the kanban board. 
+Customer comes to shop to goes out having meal.
+
+recap
+● The Kanban board is at the heart of the operation.
+● Get started by visualising the as-is workflow.
+● Limit the work-in-progress for maximum efficiency.
+● Don’t let the simplicity fool you; it’s a deceptively powerful tool.
+● Kanban can be a final destination… or a stepping stone for grander ambitions.
+
+Full Course:https://www.youtube.com/watch?v=GnG6RPSRLCs&feature=emb_logo

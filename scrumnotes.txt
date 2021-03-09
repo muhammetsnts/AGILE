@@ -1,0 +1,177 @@
+scrum = rugby term, a method of restarting play in rugby 
+fail fast learn fast
+deliver quickly
+highest value delivered first
+
+about combining Lean and agile principles to help teams to deliver products.
+
+po: the single, final decision maker for what the project is all about and what the end product delivers
+	- what needs to be done, (product vision, choose features, writes User Stories)
+	- reviews the team's work 
+	- ensures that the highest value is being delivered? 
+	- orders the work and ensures that Scrum Team members clearly understand the details of the requests
+	- product owner is like a politician
+
+sm: LEADER, how the team does the work, 
+	- help the Scrum Team resolve day-to-day issues 
+	- counterbalance the ongoing requirements changes
+	- dedicated role that protects the team, 
+	- helps them improve their internal team processes.
+	- spokeperson
+
+ideal size of team 7 people +-2
+dedicated = higher focus, better efficiency, fast delivery
+
+T shaped skills: Broad knowledge(DB analyst) - Deep knowledge(Python developer)
+
+time, cost, scope # 3 project constraints, cant be changed after project starts
+
+Team norms: commitments made on; 
+	- how the team will work together, 
+	- resolve disagreements, 
+	- reach design consensus. 
+	EX: aggree or disagree, move forward with the decision the team made 
+
+CEREMONIES
+---
+Sprint Planning --- Everyone --- Goal:Everyone fully understand the story and AC, definition of Done, Q/A session, write tasks, story points estimation
+
+Grooming Meeting --- Everyone --- review the backlog, rewriting, splitting, deleting --- no specific date, usually in the middle of the sprint
+
+Daily Standup --- Team --- Every day same time max 15 min, SM select time fit to everyone, in front of board, opportunuty to ask for help, collaboration and communication, internal meeting for the team
+
+Retrospective --- Everyone --- close-door session, Focus on the team not the product, how to be more effective, what to improve; find effective solutions to problems and to develop action plans
+
+Sprint Review --- Everyone, Customers, Devs from other teams --- Review the sprint as a whole, receive feedback
+
+Demo --- Team and Stakeholders --- Show the product, feedback from stakeholders, new user stories; trust and relationship building, often as possible (Not every sprint)
+---
+
+
+Minimum Viable Product 	- get fast feedback
+						- reduce scope creep (uncontrolled changes or continuous growth in a project’s scope. This can occur when the scope of a project is not properly defined, documented, or controlled)
+
+The Product Increment is the sum of all the product backlog items finished during the sprint. 
+
+		VISION
+THEMES			FEATURES
+profile-------> Login		
+orders 			Save password
+delivery		Recent Orders
+payment			Favorites
+
+
+Nice to have features may be postponed to other sprints
+
+User Story: 
+Independent --- delivered seperately
+Negotiable --- rewrite, cancel, change
+Valuable --- meaningful, user value
+Estimable --- story points
+Small --- complete in one sprint
+Testable --- enough info to test
+
+Functional User Story:
+As a mobile customer, I want to create a profile, so that future orders are faster to place.
+
+Task: (Create user ID) Write new user ID to DB
+
+Acceptance Criteria
+
+Definition of Done
+
+Sprint Duration: try and learn, begin with 2 weeks; shortest feasible Sprint length possible
+
+
+			Estimate
+Actual 			- 		Relative
+Map distance			Comparison, to get a general idea
+						Compare user stories each other
+
+Roadmap: Estimate of when the team will complete the stories, living doc, a guide
+
+Release plan
+
+Stabilized Velocity: Team knows how many story points the can finish in a sprint
+
+QUIZ
+--------------------------------------------------------------------------------------------------------
+Within the Scrum Team, who usually writes the user stories? 
+The Product Owner, or PO, is usually responsible for writing the user stories.
+
+What type of estimation do Scrum Teams use to size their stories?
+Relative Estimation
+
+When is the vision for your product established?
+before any work begins
+The vision is the map that will guide you and your team to your destination, and is established by the Product Owner before any work begins.
+
+What do Scrum Teams use to break their work into small, deliverable elements?
+User Stories
+
+How is relative estimation used in Scrum?
+by comparing user stories to each other
+By using relative estimation to compare user stories to each other, you get a rough size of your work.
+
+How should your team establish its cadence(rhythm)?
+by the shortest feasible Sprint length possible
+Scrum states that your Sprint can be anywhere from one to four weeks in duration, with a preference toward the shorter timescale.
+
+Your roadmap is an estimate of 
+when the team will complete their stories
+The roadmap is an estimate of when your team will complete their stories, and it should be updated at the end of every Sprint.
+--------------------------------------------------------------------------------------------------------
+
+Information Radiators, visually represent their project, on the wall:
+- Vision
+- Team Norms
+- Definition of Done
+- Roadmap
+- Release Plan
+
+BurnDown Chart: measure how well team execute, ideal linear fashion, shows how progressing
+trace the progress of a project
+
+Product Backlog can be changed, sprint backlog not once sprint started!
+
+QUIZ
+--------------------------------------------------------------------------------------------------------
+Why is a backlog refinement event usually held around midpoint of the Sprint?
+to evaluate what new items have come up
+At least once per Sprint, the whole Scrum Team meets to evaluate the new items that have come up.
+
+What do Scrum Teams use to visually represent their project?
+Information radiators
+
+Before verifying the team has the capacity to complete the work, what do you need to know?
+hours for all the planned work in the Sprint
+As a general guide, remember that in an eight-hour working day, people usually only have about six hours of productive time.
+
+In order for Scrum to work, what does the Daily Scrum meeting rely on?
+collaboration and communication
+The Daily Scrum includes all three Cs, and is the expected cadence for communication and collaboration.
+
+Which scenario is an example of an information radiator?
+posting a burn-down chart on the wall
+An information radiator is anything you post on your team sites or walls that helps the team understand the work and its progress.
+
+Why do Scrum Teams hold Retrospectives after every sprint?
+to recognize how they can improve their work practices
+
+To help complete stories in Scrum, what event do teams hold?
+a Sprint Review
+A Sprint Review happens when the team and a PO meet to review the Sprint as a whole, and is usually held in a brief, semi formal session.
+
+Who does the demo build trust between?
+the Scrum Team and the stakeholders
+The demo is how the Product Owner and the Scrum Team ensure the stakeholders are satisfied with the product being delivered.
+
+This key Scrum role is the only one that can accept a story as done.
+Product Owner
+--------------------------------------------------------------------------------------------------------
+
+Story Point: provides an easier estimation
+
+velocity is the key metric
+
+Timeboxing
